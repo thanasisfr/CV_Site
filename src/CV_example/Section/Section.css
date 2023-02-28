@@ -1,0 +1,12 @@
+.Section{
+    background: rgb(255, 255, 255);
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: cadetblue;
+}
+
+.headLine{
+    color:black;
+    font-size: larger;
+    font-weight: bold;
+}

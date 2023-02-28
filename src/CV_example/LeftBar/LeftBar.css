@@ -1,0 +1,9 @@
+
+.LeftBar{
+    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(7,7,103,1) 47%, rgba(1,31,37,1) 100%);
+    font-weight: bold;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:beige;
+    flex-direction: column;
+}
