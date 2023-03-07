@@ -226,7 +226,7 @@ eval("\n\nmodule.exports = function (i) {\n  return i[1];\n};\n\n//# sourceURL=w
   \********************************************/
 /***/ (function(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"/public/icons/katakouzinos_tromponi.png\");\n\n//# sourceURL=webpack://startapp/./src/imgs/katakouzinos_tromponi.png?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"/CV_Site/icons/katakouzinos_tromponi.png\");\n\n//# sourceURL=webpack://startapp/./src/imgs/katakouzinos_tromponi.png?");
 
 /***/ }),
 
